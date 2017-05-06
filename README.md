@@ -10,3 +10,6 @@ WP workflow (Český Hosting VMS)
 7. Install WP
 8. Activate DB Sync + DB Media
 9. Sync DB from DEV to Staging
+10. GIT Pull on Staging on updates
+
+PS: Make sure "dist" folder in theme directory is not in .gitignore file and is in the repository
