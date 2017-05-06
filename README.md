@@ -9,6 +9,7 @@ WP workflow (Český Hosting VMS)
 - GIT
 - SSH Keys + authorized_keys (Public Key) in .ssh folder on server
 
+## Steps
 1. Create a DEV environment
 2. Connect with SSH GIT archive on STAGING
 3. GIT Pull on STAGING
