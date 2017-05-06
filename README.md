@@ -1,6 +1,14 @@
 # wp-workflow
 WP workflow (Český Hosting VMS)
 
+## Prerequisites
+- Apache
+- PHP7
+- MySQL
+- Composer
+- GIT
+- SSH Keys + authorized_keys (Public Key) in .ssh folder on server
+
 1. Create a DEV environment
 2. Connect with SSH GIT archive on STAGING
 3. GIT Pull on STAGING
